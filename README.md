@@ -2,6 +2,6 @@
 
 # RISING! Regional Investment Sustainably Increasing National GDP
 
-Here you can find the code for the streamlit app demoing the model analysis of the Hartree data explorers UN Datathon 2023 submission. 
+Here you can find the code for the streamlit app demoing the solution submitted to the 2023 UN Datathon.
 
-The rest of the modelling code is available in a [here](https://github.com/rduke15/HDE_UN_Datathon_23) and deployed to be explored [here](https://hde-un-datathonapp.streamlit.app/)
+The rest of the modelling code is available [here](https://github.com/rduke15/HDE_UN_Datathon_23) and the deployed solution can explored [here](https://hde-un-datathonapp.streamlit.app/)
